@@ -1,0 +1,80 @@
+body{
+    background-color: #F9F5F2;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #cccccc;
+    width: 30vw;
+}
+
+.clear-button-container{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: #f0f3ff;
+    padding: 5px 10px;
+    border: 2px solid #f0f3ff;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 10px #f0eef0;
+}
+
+input{
+    border: 2px solid #f0eef0;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 10px 10px;
+}
+
+.green{
+    background-color: #0CAA5F;
+    border: 2px #0CAA5F;
+    color: white;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 10px;
+
+}
+
+.todo-list{
+    height: 30vh;
+    overflow: auto;
+}
+
+.profile{
+    display: flex;
+    margin: 5px 5px;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
