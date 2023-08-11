@@ -6,10 +6,10 @@
 
  ![screenshot_2](screenshot_2.PNG)
 
- ### Try the App through link below
+ ### Try the App using the link below
  https://get-your-tasks-done.netlify.app/
 
- ##Build with:
+ ## Build with:
  * Html
  * CSS
  * JavaScript
