@@ -52,7 +52,7 @@ function displayNumberOfTasks(){
             tasksToday.innerHTML = `<h3 class="poppins">You have got 1 task to finish today</h3>`;
         }
         else{
-            tasksToday.innerHTML = `<h4 class="poppins">You have got ${i+1} tasks to finish today</h4>`;
+            tasksToday.innerHTML = `<h3 class="poppins">You have got ${i+1} tasks to finish today</h3>`;
         }
     }
 }
