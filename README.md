@@ -1,5 +1,5 @@
 # TODO-LIST
-### Simple todo list App using JavaScript to get your tasks done
+Simple todo list App using JavaScript to get your tasks done
 
 ## Example Run
  ![screenshot_1](screenshot_1.PNG)
