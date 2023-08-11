@@ -78,3 +78,11 @@ input{
 .poppins{
     font-family: 'Poppins', sans-serif;
 }
+
+.copyright{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    color: #cccccc;
+}
